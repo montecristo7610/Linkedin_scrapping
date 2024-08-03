@@ -20,7 +20,7 @@ const LinkedinClient = require('linkedin-client');
 
 (async () => {
   const client = new LinkedinClient('YOUR_LINKEDIN_COOKIE');
-  const data = await client.fetch('https://www.linkedin.com/in/williamhgates/');
+  const data = await client.fetch('https://www.linkedin.com/in/montecristo7610/');
   console.log(data);
 })();
 ```
@@ -30,7 +30,7 @@ const LinkedinClient = require('linkedin-client');
 If you want to retrieve people details :
 
 ```bash
-node src/cli.js https://www.linkedin.com/in/williamhgates/
+node src/cli.js https://www.linkedin.com/in/montecristo7610/
 ```
 
 Or if you want to retrieve company information :
