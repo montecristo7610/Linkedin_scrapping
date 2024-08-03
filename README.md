@@ -1,4 +1,4 @@
-# Linkedin Client
+# Linkedin Scrapper
 
 [![npm version](https://badge.fury.io/js/linkedin-client.svg)](https://badge.fury.io/js/linkedin-client)
 
